@@ -1,0 +1,42 @@
+D:\VS projekti\C# projekti\EMedical\EMedical\bin\Debug\EMedical.exe.config
+D:\VS projekti\C# projekti\EMedical\EMedical\bin\Debug\EMedical.exe
+D:\VS projekti\C# projekti\EMedical\EMedical\bin\Debug\EMedical.pdb
+D:\VS projekti\C# projekti\EMedical\EMedical\bin\Debug\Guna.UI2.dll
+D:\VS projekti\C# projekti\EMedical\EMedical\obj\Debug\EMedical.Properties.Resources.resources
+D:\VS projekti\C# projekti\EMedical\EMedical\obj\Debug\EMedical.csproj.GenerateResource.cache
+D:\VS projekti\C# projekti\EMedical\EMedical\obj\Debug\EMedical.csproj.CoreCompileInputs.cache
+D:\VS projekti\C# projekti\EMedical\EMedical\obj\Debug\EMedical.csproj.CopyComplete
+D:\VS projekti\C# projekti\EMedical\EMedical\obj\Debug\EMedical.exe
+D:\VS projekti\C# projekti\EMedical\EMedical\obj\Debug\EMedical.pdb
+D:\VS projekti\C# projekti\EMedical\EMedical\bin\Debug\AlphaBlendTextBox.dll
+D:\VS projekti\C# projekti\EMedical\EMedical\obj\Debug\EMedical.Login.resources
+D:\VS projekti\C# projekti\EMedical\EMedical\bin\Debug\Bunifu_UI_v1.52.dll
+D:\VS projekti\C# projekti\EMedical\EMedical\obj\Debug\EMedical.DoctorWidget.resources
+D:\VS projekti\C# projekti\EMedical\EMedical\obj\Debug\EMedical.AdminDash.resources
+D:\VS projekti\C# projekti\EMedical\EMedical\obj\Debug\EMedical.PatientWidget.resources
+D:\VS projekti\C# projekti\EMedical\EMedical\obj\Debug\EMedical.NurseDash.resources
+D:\VS projekti\C# projekti\EMedical\EMedical\obj\Debug\EMedical.PatRecordWidget.resources
+D:\VS projekti\C# projekti\EMedical\EMedical\obj\Debug\EMedical.PatOrdWidget.resources
+D:\VS projekti\C# projekti\EMedical\EMedical\obj\Debug\EMedical.DoctorDash.resources
+D:\VS projekti\C# projekti\EMedical\EMedical\obj\Debug\EMedical.DocOrdPatWidget.resources
+D:\VS projekti\C# projekti\EMedical\EMedical\obj\Debug\EMedical.csproj.AssemblyReference.cache
+D:\VS projekti\C# projekti\.NET Framework\EMedical\EMedical\obj\Debug\EMedical.DocOrdPatWidget.resources
+D:\VS projekti\C# projekti\.NET Framework\EMedical\EMedical\obj\Debug\EMedical.DoctorDash.resources
+D:\VS projekti\C# projekti\.NET Framework\EMedical\EMedical\obj\Debug\EMedical.DoctorWidget.resources
+D:\VS projekti\C# projekti\.NET Framework\EMedical\EMedical\obj\Debug\EMedical.Login.resources
+D:\VS projekti\C# projekti\.NET Framework\EMedical\EMedical\obj\Debug\EMedical.AdminDash.resources
+D:\VS projekti\C# projekti\.NET Framework\EMedical\EMedical\obj\Debug\EMedical.NurseDash.resources
+D:\VS projekti\C# projekti\.NET Framework\EMedical\EMedical\obj\Debug\EMedical.PatientWidget.resources
+D:\VS projekti\C# projekti\.NET Framework\EMedical\EMedical\obj\Debug\EMedical.PatOrdWidget.resources
+D:\VS projekti\C# projekti\.NET Framework\EMedical\EMedical\obj\Debug\EMedical.PatRecordWidget.resources
+D:\VS projekti\C# projekti\.NET Framework\EMedical\EMedical\obj\Debug\EMedical.Properties.Resources.resources
+D:\VS projekti\C# projekti\.NET Framework\EMedical\EMedical\obj\Debug\EMedical.csproj.GenerateResource.cache
+D:\VS projekti\C# projekti\.NET Framework\EMedical\EMedical\obj\Debug\EMedical.csproj.CoreCompileInputs.cache
+D:\VS projekti\C# projekti\.NET Framework\EMedical\EMedical\obj\Debug\EMedical.exe
+D:\VS projekti\C# projekti\.NET Framework\EMedical\EMedical\obj\Debug\EMedical.pdb
+D:\VS projekti\C# projekti\.NET Framework\EMedical\EMedical\bin\Debug\EMedical.exe.config
+D:\VS projekti\C# projekti\.NET Framework\EMedical\EMedical\bin\Debug\EMedical.exe
+D:\VS projekti\C# projekti\.NET Framework\EMedical\EMedical\bin\Debug\EMedical.pdb
+D:\VS projekti\C# projekti\.NET Framework\EMedical\EMedical\bin\Debug\Guna.UI2.dll
+D:\VS projekti\C# projekti\.NET Framework\EMedical\EMedical\obj\Debug\EMedical.csproj.CopyComplete
+D:\VS projekti\C# projekti\.NET Framework\EMedical\EMedical\obj\Debug\EMedical.MedFindWidget.resources
